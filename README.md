@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @LiudasVasaris
-- 👀 I’m interested in Data Science and Engineering
+- 👔 Data Scientist in Retail 
+- 👀 I’m interested in unusual graphs and analytics, basketball and music
 - 🌱 I’m currently learning Data Science and Engineering in python
+
 
 
 <!---
